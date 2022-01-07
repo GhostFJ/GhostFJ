@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <pre>
 A peasant-worker in new era!
 </pre>
+<p align="center"><img src="https://github.com/GhostFJ/GhostFJ/blob/main/pusheencode.gif?raw=true" alt="Synthwave" height="300" width="500"></p>
 
 
 <h2 align="center"> 📧 You can reach me at :alien: </h2>
@@ -33,7 +34,6 @@ A peasant-worker in new era!
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-005aCC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -55,16 +55,12 @@ A peasant-worker in new era!
 
 <p align="center"><img src="https://profile-counter.glitch.me/{GhostFJ}/count.svg" alt="GhostFJ :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :tongue:  &&  Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFJ&langs_count=10&theme=tokyonight&layout=compact" alt="GhostFJ :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://github.com/GhostFJ/GhostFJ/blob/main/pusheencode.gif?raw=true" alt="Synthwave" height="300" width="500"></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFJ&langs_count=10&theme=tokyonight&layout=compact" alt="GhostFJ :: Top Langs" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="215" />
+</p>
 
 
----
 
