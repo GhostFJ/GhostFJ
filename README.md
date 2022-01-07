@@ -58,8 +58,8 @@ A peasant-worker in new era!
 <h4 align="center">Top langs :tongue:  &&  Profile stats :musical_keyboard:</h4>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFJ&langs_count=10&theme=tokyonight&layout=compact" alt="GhostFJ :: Top Langs" height="200"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="200" width="450"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFJ&langs_count=8&theme=tokyonight&layout=compact" alt="GhostFJ :: Top Langs" height="180"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats"  width="450"/>
 </p>
 
 
