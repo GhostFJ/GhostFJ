@@ -59,7 +59,7 @@ A peasant-worker in new era!
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFJ&langs_count=10&theme=tokyonight&layout=compact" alt="GhostFJ :: Top Langs" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="215" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostFJ&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="215" width="400"/>
 </p>
 
 
